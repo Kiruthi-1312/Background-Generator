@@ -22,7 +22,7 @@ function gradient()
  	const b = getRandom();
 
  	body.style.background = "linear-gradient(to right, rgb("+r+","+g+","+b+"),rgb("+b+","+r+","+g+"))";
- 	console.log(body.style.background);
+//  	console.log(body.style.background);
 
  }
 
